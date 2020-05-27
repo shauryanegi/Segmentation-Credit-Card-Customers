@@ -4,7 +4,7 @@ This case requires trainees to develop a customer segmentation to define marketi
 
 Please find the following files:
 
-1.Results enclosed as 'Profiling_output_casestudy.xlsx'which contains the qualitative analysis to select the number of clusters.
+1.Results enclosed as 'Profiling_output_casestudy.xlsx' which contains the qualitative analysis to select the number of clusters.
 
 2.Required ipynb file.
 
