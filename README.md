@@ -41,4 +41,3 @@ PAYMENTS: Total payments (due amount paid by the customer to decrease their stat
 MINIMUM_PAYMENTS: Total minimum payments due in the period.
 PRC_FULL_PAYMEN: Percentage of months with full payment of the due statement balance
 TENURE: Number of months as a customer
-
