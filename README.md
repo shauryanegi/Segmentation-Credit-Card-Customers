@@ -31,7 +31,7 @@ This case requires trainees to develop a customer segmentation to define marketi
 
  Provide the strategic insights and implementation of strategies for given set of cluster characteristics
 
-DATA DICTIONARY:
+## DATA DICTIONARY:
 
 CUST_ID: Credit card holder ID
 
